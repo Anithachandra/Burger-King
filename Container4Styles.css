@@ -1,0 +1,146 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.box4{
+    width: 100vw;
+    height: 40vw;
+    background-color:#f8f6f3 ;
+}
+.b1{
+width: 100vw;
+height:5vw ;
+/* background-color: red; */
+display: flex;
+justify-content: center;
+align-items: end;
+}
+.b2{
+    width: 100vw;
+    height: 37vw;
+    background-color: #323231;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.theory{
+    width: 50vw;
+    height: 2.5vw;
+    /* background-color: green; */
+    font-size: 1.35vw;
+    text-align: end;
+}
+footer{
+    width: 90vw;
+    height: 37vw;
+    background-color: #323231;
+}
+.footer-div1{
+    width: 90vw;
+    height:26vw ;
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+    
+
+
+}
+.info,.cont,.cares,.legal{
+    width: 17vw;
+    height: 20vw;
+    /* background-color: gray; */
+}
+.cont{
+    /* background-color: green; */
+}
+.cares{
+    /* background-color: yellow; */
+}
+.legal{
+    /* background-color: blue; */
+}
+.download{
+    width: 21vw;
+    height: 20vw;
+    /* background-color: orange; */
+}
+h1{
+    width: 17vw;
+    height: 3.5vw;
+    font-size: 1.6vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.info-part,.cont-part,.cares-part,.legal-part,.download-part {
+width: 17vw;
+height: 15vw;
+/* background-color: blue; */
+font-weight: bolder;
+color: darkgray;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+cursor: pointer;
+}
+p{
+    line-height: 2vw;
+}
+.download-part {
+    width: 21vw;
+    display: flex;
+    /* background-color: gray; */
+    justify-content: space-between;
+
+}
+.dwd{
+    width: 10vw;
+    height: 3vw;
+    /* background-color: red; */
+    background-image: url(../Assets/download-image.png);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#dwd1{
+   /* background-color: green; */
+   background-image: url(../Assets/download-image1.png);
+}
+hr{
+    color: white;
+}
+#footer-div2{
+    width: 100vw;
+    height:11vw ;
+    /* background-color: red; */
+    display: flex;
+}
+.last-divs{
+    width: 25vw;
+    height: 11vw;
+    /* background-color: green; */
+}
+#ld1{
+    /* background-color: gray; */
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+#ld2{
+    width: 41vw;
+    /* background-color: orange; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#ld3{
+    /* background-color: black; */
+}

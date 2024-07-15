@@ -1,0 +1,69 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#body-main-container{
+    width: 100vw;
+    height: 22vw;
+    /* background-color: gray; */
+    display: flex;
+    justify-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#body-container2{
+    width: 90vw;
+    height: 6vw;
+    /* background-color: green; */
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+#body-sub-container1{
+    width:28vw ;
+    height: 4vw;
+    /* background-color: red; */
+    font-size: 2.5VW;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#body-container3{
+    width: 90vw;
+    height: 14vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-color: red;
+}
+#body-sub-container2{
+    width: 90vw;
+    height: 14vw;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+.parts{
+    width: 29vw;
+    height: 14vw;
+}
+#ig-part1{
+    background-image: url(../Assets/ig1.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#ig-part2{
+    background-image: url(../Assets/ig2.jpeg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#ig-part3{
+    background-image: url(../Assets/ig3.jpeg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat; 
+}
+

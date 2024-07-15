@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.box2{
+    width: 100vw;
+    height: 23vw;
+    background-color: #f8f6f3;
+    display: flex;
+    justify-content:center ;
+}
+#box3{
+    width: 85vw;
+    height: 21vw;
+    background-color: red;
+    background-image: url(./../Assets/bk.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    border-radius: 10px;
+}

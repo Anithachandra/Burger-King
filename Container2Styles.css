@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.box{
+    width: 100vw;
+    height: 10vw;
+    background-color: #f8f6f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-div{
+    width: 30vw;
+    height: 3vw;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.but{
+    width: 28vw;
+    height: 3.5vw;
+    background-color: orange;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2vw;
+    font-weight: bold;
+    box-shadow: 2px 2px 2px black;
+    color: white;
+    border: none;
+}
